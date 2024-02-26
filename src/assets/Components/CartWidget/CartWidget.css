@@ -1,0 +1,7 @@
+.CartWidget {
+    width: 100%;
+    flex-basis: 25%;
+    transition: .8s;
+    cursor: pointer;
+}
+
